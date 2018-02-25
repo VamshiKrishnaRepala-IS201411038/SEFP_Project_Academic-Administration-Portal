@@ -13,7 +13,7 @@ students, faculty and admin.
   1. [Brief Presentation](Docs/AAA_Presentation_Demo.pdf) 
   2. [SRS (Software Requirement Specification) document](Docs/SRS_AcademicApp.pdf)
   3. [Project backlogs and its features](Docs/Academic_Administration_Project_Backlogs.pdf)
-  4. [UML diagrams & Use Case Diagrams](Docs/Acad_UML_UseCase.pdf)
+  4. [Class diagrams & Use Case Diagrams](Docs/Acad_UML_UseCase.pdf)
   5. [Screenshots](Docs/Screenshots/)
   
   
