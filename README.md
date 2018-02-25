@@ -9,15 +9,14 @@ announcements, discussions etc. To resolve this tedious activities, We made a we
 students, faculty and admin.
  
 # Docs related
-  [Here](Docs/AAA_Presentation_Demo.pdf) you can go for a brief presentation of this project. 
- 
-  You can find this application SRS (Software Requirement Specification) document [here](Docs/SRS_AcademicApp.pdf) which included project requirements & specifications along with use case diagram also find [here](Docs/Academic_Administration_Project_Backlogs.pdf) for project backlogs and its features.
- 
- 
- 
+  You can find the following docs: 
+  1. Brief Presentation [Here](Docs/AAA_Presentation_Demo.pdf) 
+  2. [SRS (Software Requirement Specification) document](Docs/SRS_AcademicApp.pdf)
+  3. [Project backlogs and its features](Docs/Academic_Administration_Project_Backlogs.pdf)
+  4. [UML diagrams & Use Case Diagrams] (Docs/Acad_UML_UseCase.pdf)
 
 # Requirements
 php, MySql, Apache
 
 # Execution
-Before Run these files upload the acaddb.sql in your mysql server and main file is Home.php
+Before running these files, upload the acaddb.sql in your mysql server for creating the database and then run the main file Home.php
