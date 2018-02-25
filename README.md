@@ -8,7 +8,7 @@ through mails for every month. Same problem happened in the case of course regis
 announcements, discussions etc. To resolve this tedious activities, We made a web based platform between
 students, faculty and admin by following the traditional software development model - Waterfall model.
  
-# Docs related
+# Docs related to this application
   You can find the following docs: 
   1. [Brief Presentation](Docs/AAA_Presentation_Demo.pdf) 
   2. [SRS (Software Requirement Specification) document](Docs/SRS_AcademicApp.pdf)
