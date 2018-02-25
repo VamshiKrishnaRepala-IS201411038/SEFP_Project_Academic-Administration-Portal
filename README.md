@@ -1,5 +1,5 @@
 # ACAD - an Academic Administration Portal
-  This is the repository for my Software Engineering project ACAD - an Academic Administraiton Portal !!
+  This is the repository for my Software Engineering course project ACAD - an Academic Administraiton Portal !!
 
 # Motivation behind this project:
   Usually in our campus, Attendance of each student is taken manually by the staff/faculty
@@ -10,11 +10,13 @@ students, faculty and admin.
  
 # Docs related
   You can find the following docs: 
-  1. Brief Presentation [Here](Docs/AAA_Presentation_Demo.pdf) 
+  1. [Brief Presentation](Docs/AAA_Presentation_Demo.pdf) 
   2. [SRS (Software Requirement Specification) document](Docs/SRS_AcademicApp.pdf)
   3. [Project backlogs and its features](Docs/Academic_Administration_Project_Backlogs.pdf)
-  4. [UML diagrams & Use Case Diagrams] (Docs/Acad_UML_UseCase.pdf)
-
+  4. [UML diagrams & Use Case Diagrams](Docs/Acad_UML_UseCase.pdf)
+  5. [Screenshots](Docs/Screenshots/)
+  
+  
 # Requirements
 php, MySql, Apache
 
